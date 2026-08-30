@@ -71,3 +71,72 @@ Zoiets:
 - **Schermafbeeldingen**: nog te maken. Nodig voor ten minste 6,7 inch; de
   simulator van een iPhone 17 Pro levert de juiste maat.
 - **Beschrijving en trefwoorden**: nog te schrijven.
+
+## Naam, ondertitel en beschrijving
+
+**Naam** (30 tekens): `Mente`
+
+**Ondertitel** (30 tekens): `De assistent die je kent`
+
+**Promotietekst** (170 tekens, kan zonder nieuwe versie veranderen):
+
+> Nieuw: Mente onthoudt wat je normaal in huis haalt en vult aan wat ontbreekt.
+> Vraag om een recept en hij legt de boodschappen erbij in je mandje.
+
+**Beschrijving:**
+
+> Mente onthoudt wat je vertelt.
+>
+> De meeste assistenten beginnen elk gesprek opnieuw. Mente niet. Wat je vertelt
+> blijft hangen — je werk, je voorkeuren, waar je mee bezig bent — zodat je het
+> niet elke keer opnieuw hoeft uit te leggen.
+>
+> WAT HIJ DOET
+>
+> • Antwoord geven, met het model dat bij je vraag past
+> • Zoeken op het web wanneer het antwoord van actuele feiten afhangt
+> • Plaatsen opzoeken en op de kaart laten zien
+> • Je boodschappen in je mandje leggen bij Picnic
+> • Praten in plaats van typen, als dat beter uitkomt
+>
+> WAT HIJ ONTHOUDT
+>
+> Je hoeft niets op te slaan. Wat over weken nog waar is blijft vanzelf hangen:
+> hoe je heet, waar je aan werkt, dat je liever kort antwoord krijgt. Ook wat je
+> normaal in huis haalt. Vraag om een recept en Mente weet welke ingrediënten je
+> al hebt.
+>
+> JOUW GEHEUGEN, JOUW KEUZE
+>
+> Typ /geheugen om te zien wat Mente over je weet, en /vergeet om er iets uit te
+> halen. Je account verwijderen kan in de app; dat wist alles, meteen.
+>
+> IN EUROPA
+>
+> Alle vragen lopen via een Europese doorgang en Mente kiest bij voorkeur
+> modellen die binnen de EU draaien. Wil je zeker weten dat je gegevens Europa
+> niet verlaten, dan kun je alleen-EU afdwingen. De spraakmodus is de enige
+> uitzondering; dat staat in de privacyverklaring.
+>
+> WAT HET KOST
+>
+> Niets. Er geldt een royale daglimiet zodat de kosten beheersbaar blijven; wat
+> je vandaag gebruikt zie je in de app.
+>
+> Mente geeft antwoorden van een taalmodel. Die kunnen fout zijn. Gebruik ze niet
+> als vervanging van professioneel advies.
+
+**Trefwoorden** (100 tekens, komma's zonder spaties):
+
+```
+assistent,geheugen,boodschappen,picnic,recepten,plannen,zoeken,spraak,privacy,eu
+```
+
+Dat is 80 tekens. Bewust géén merknamen van modellen erin: Apple wijst
+trefwoorden af die het handelsmerk van een ander gebruiken. "Mente" hoeft er
+niet in, de naam telt al mee.
+
+**Primaire taal**: Nederlands. De app is volledig Nederlandstalig; een Engelse
+listing zou beloven wat de app niet doet.
+
+**Categorie**: Productiviteit, met Hulpprogramma's als tweede.
