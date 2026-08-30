@@ -68,9 +68,9 @@ Zoiets:
   `project.yml`. Alleen standaard-HTTPS.
 - **Sign in with Apple**: verplicht om ook andere aanmeldwijzen aan te bieden is
   hier niet van toepassing, want Apple is de enige.
-- **Schermafbeeldingen**: nog te maken. Nodig voor ten minste 6,7 inch; de
-  simulator van een iPhone 17 Pro levert de juiste maat.
-- **Beschrijving en trefwoorden**: nog te schrijven.
+- **Schermafbeeldingen**: klaar, 1320x2868 uit de simulator van een iPhone 17
+  Pro Max. Dat is de maat die Apple voor 6,9 inch vraagt.
+- **Beschrijving en trefwoorden**: hieronder.
 
 ## Naam, ondertitel en beschrijving
 
