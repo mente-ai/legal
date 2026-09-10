@@ -60,16 +60,19 @@ Zoiets:
 
 ## Overig
 
-- **Leeftijdsclassificatie**: de app geeft door een taalmodel gegenereerde
-  antwoorden en kan het web doorzoeken. Dat is in Apple's vragenlijst
-  "Unrestricted Web Access" en gebruikersgegenereerde inhoud; reken op 17+,
-  tenzij je de webtoegang in de vragenlijst anders kunt verantwoorden.
+- **Leeftijdsclassificatie**: eerder schatte ik 17+ op grond van
+  "Unrestricted Web Access". Bij nakijken zit er geen ingebouwde browser in de
+  app: er is geen WKWebView en links openen in Safari. Dat vakje mag dus op nee
+  staan, zoals het nu staat. Wat wel aan staat is gebruikersgegenereerde
+  inhoud, en dat is juist: wat het model antwoordt is niet vooraf te
+  overzien. De uitkomst van de vragenlijst is daarmee lager dan ik eerst zei;
+  loop hem zelf na en beslis of je de moderatievragen anders beantwoordt.
 - **Export compliance**: `ITSAppUsesNonExemptEncryption` staat al op `false` in
   `project.yml`. Alleen standaard-HTTPS.
 - **Sign in with Apple**: verplicht om ook andere aanmeldwijzen aan te bieden is
   hier niet van toepassing, want Apple is de enige.
-- **Schermafbeeldingen**: klaar, 1320x2868 uit de simulator van een iPhone 17
-  Pro Max. Dat is de maat die Apple voor 6,9 inch vraagt.
+- **Schermafbeeldingen**: geüpload, vijf stuks van 1320x2868 uit de simulator
+  van een iPhone 17 Pro Max, onder het formaat APP_IPHONE_67.
 - **Beschrijving en trefwoorden**: hieronder.
 
 ## Naam, ondertitel en beschrijving
