@@ -24,7 +24,7 @@ partners use data for tracking?" is het antwoord **nee**.
 | Identifiers | User ID | De Apple-identificatie en ons eigen account-id |
 | User Content | Other User Content | De gesprekken, en het profiel dat eruit volgt |
 | User Content | Photos or Videos | Foto's die iemand meestuurt in een gesprek |
-| Usage Data | Product Interaction | Aantal aanroepen en tekst per dag, voor de daglimiet |
+| Usage Data | Product Interaction | Aantal aanroepen en tekst per dag, voor de daglimiet; reacties op nieuwsverhalen (meer, minder, geopend) om de briefing te laten passen |
 | Diagnostics | Other Diagnostic Data | Technische logs op de server: tijdstippen, fouten, IP-adres van het verzoek |
 
 Niet verzamelen, dus overal **nee**: Location, Contacts, Health & Fitness,
@@ -100,6 +100,7 @@ Zoiets:
 > • Zoeken op het web wanneer het antwoord van actuele feiten afhangt
 > • Plaatsen opzoeken en op de kaart laten zien
 > • Je boodschappen in je mandje leggen bij Picnic
+> • Elke ochtend het belangrijkste tech-nieuws, met de bronnen erbij
 > • Praten in plaats van typen, als dat beter uitkomt
 >
 > WAT HIJ ONTHOUDT
